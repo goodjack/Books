@@ -15,27 +15,33 @@
                   </div>
                 </div>
                 <div class="form-group row">
-                  <label for="isbn" class="col-xs-2 col-form-label  col-form-label-lg">ISBN</label>
-                  <div class="col-xs-5">
-                    <input class="form-control form-control-lg" type="text" id="isbn">
-                  </div>
-                </div>
-                <div class="form-group row">
                   <label for="author" class="col-xs-2 col-form-label  col-form-label-lg">作者</label>
                   <div class="col-xs-5">
                     <input class="form-control form-control-lg" type="text" id="author">
                   </div>
                 </div>
                 <div class="form-group row">
-                  <label for="press" class="col-xs-2 col-form-label  col-form-label-lg">出版社</label>
+                  <label for="publisher" class="col-xs-2 col-form-label  col-form-label-lg">出版社</label>
                   <div class="col-xs-5">
-                    <input class="form-control form-control-lg" type="text" id="press">
+                    <input class="form-control form-control-lg" type="text" id="publisher">
                   </div>
                 </div>
                 <div class="form-group row">
                   <label for="date" class="col-xs-2 col-form-label  col-form-label-lg">出版日期</label>
                   <div class="col-xs-5">
                     <input class="form-control form-control-lg" type="date" id="date">
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label for="isbn10" class="col-xs-2 col-form-label  col-form-label-lg">ISBN-10</label>
+                  <div class="col-xs-5">
+                    <input class="form-control form-control-lg" type="text" id="isbn10">
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <label for="isbn13" class="col-xs-2 col-form-label  col-form-label-lg">ISBN-13</label>
+                  <div class="col-xs-5">
+                    <input class="form-control form-control-lg" type="text" id="isbn13">
                   </div>
                 </div>
                 <br>
